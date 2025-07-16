@@ -41,12 +41,12 @@ Documentar experimentos práticos com Azure Speech Studio e Language Studio, apl
 ## 📸 Capturas de Tela
 
 ### 🖼️ Print 1
-![Print 1](images/print1.png)
+![Print 1](images/Print1.png)
 
 ---
 
 ### 🖼️ Print 2
-![Print 2](images/print2.png)
+![Print 2](images/Print2.png)
 
 ---
 
