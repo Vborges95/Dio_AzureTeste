@@ -50,6 +50,19 @@ Documentar experimentos práticos com Azure Speech Studio e Language Studio, apl
 
 ---
 
+## 🎵 Arquivos de Áudio
+
+Os arquivos utilizados nos testes de transcrição e análise de fala estão disponíveis na pasta [`/audios`](./audios).
+
+| Arquivo       | Descrição                                      |
+|---------------|------------------------------------------------|
+| `audio1.wav`  | Áudio de exemplo utilizado para teste inicial de conversão de fala em texto no Speech Studio. |
+| `audio2.m4a`  | Áudio adicional com conteúdo alternativo para comparação de resultados. |
+
+> 💡 **Observação:** Para baixar, clique sobre o arquivo no repositório e depois em **Download**.
+
+---
+
 ## 💡 Principais Insights
 - **Speech Studio** é uma ferramenta poderosa para transcrição e personalização de modelos de fala.
 - **Language Studio** facilita aplicações de IA em textos de forma prática.
