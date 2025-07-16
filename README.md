@@ -68,3 +68,13 @@ Documentar experimentos práticos com Azure Speech Studio e Language Studio, apl
 
 ## ✨ Sobre Este Projeto
 Este repositório faz parte do desafio proposto pela DIO para consolidar conhecimentos práticos em inteligência artificial aplicada à fala e ao processamento de linguagem natural.
+
+---
+
+## ⚠️ Observação Importante
+
+💡 **Observação pessoal:**  
+Durante a realização deste laboratório, percebi que algumas funcionalidades abordadas nas aulas exigem a criação de uma conta Azure com método de pagamento válido (cartão de crédito). Considero isso uma limitação importante, pois pode dificultar o acesso completo ao aprendizado para quem não possui cartão ou não deseja vincular dados financeiros apenas para fins educacionais.
+
+✨ **Sugestão:**  
+Seria interessante se a plataforma disponibilizasse alternativas de uso gratuito ou acesso limitado a essas funções sem a necessidade de inserir dados de pagamento, especialmente para estudantes que desejam apenas explorar os recursos de forma prática.
